@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO lists ver.J</string>
+    <string name="save">SAVE</string>
+    <string name="update_the_item">Update the item</string>
+</resources>
